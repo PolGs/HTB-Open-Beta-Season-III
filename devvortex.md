@@ -122,9 +122,12 @@ we have logan's hash:
 
 -----
 ```
+cracked the hash using john
+![imagen](https://github.com/PolGs/HTB-Open-Beta-Season-III/assets/19478700/dbe39da7-c787-41c4-8943-76aa78c6087e)
 
 
 
+![imagen](https://github.com/PolGs/HTB-Open-Beta-Season-III/assets/19478700/db45408f-db2b-4451-a45d-0083fa337d71)
 
 
 
