@@ -86,7 +86,10 @@ DB name: joomla
 DB prefix: sd4fg_
 DB encryption 0
 ```
+Obtained joomla user and pass. No ssh login with pwnd credentials.
+![imagen](https://github.com/PolGs/HTB-Open-Beta-Season-III/assets/19478700/ebf0cdb9-cac6-4fd7-baea-b36bf1ebda61)
 
+Now an RCE would be nice. Or just some arbitrary file reads.
 
 
 
