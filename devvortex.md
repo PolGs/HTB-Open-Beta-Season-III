@@ -39,4 +39,8 @@ Directory enumeration on dev subdomain
 ![imagen](https://github.com/PolGs/HTB-Open-Beta-Season-III/assets/19478700/b558310d-83f2-4601-ac23-ddc63aef1241)
 ![imagen](https://github.com/PolGs/HTB-Open-Beta-Season-III/assets/19478700/e7a5ee19-f346-4495-9014-11f3f12eb4e0)
 
+404
+![imagen](https://github.com/PolGs/HTB-Open-Beta-Season-III/assets/19478700/b52bf897-1bfe-48ce-9e0d-26f67b6c4a81)
+
+
 
