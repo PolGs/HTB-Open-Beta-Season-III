@@ -41,6 +41,18 @@ Directory enumeration on dev subdomain
 
 404
 ![imagen](https://github.com/PolGs/HTB-Open-Beta-Season-III/assets/19478700/b52bf897-1bfe-48ce-9e0d-26f67b6c4a81)
+![imagen](https://github.com/PolGs/HTB-Open-Beta-Season-III/assets/19478700/d851416d-2897-44cc-849d-ecb119651643)
+
+
+Joomla enumerationg and analysis
+https://book.hacktricks.xyz/network-services-pentesting/pentesting-web/joomla#version
+![imagen](https://github.com/PolGs/HTB-Open-Beta-Season-III/assets/19478700/e3cff6ed-e3f4-4649-a71e-488afa3b19ad)
+
+"<version>3.0.0</version>"
+Possible vulns
+![imagen](https://github.com/PolGs/HTB-Open-Beta-Season-III/assets/19478700/a3519557-f24d-4a8f-ac37-bd460b692afb)
+![imagen](https://github.com/PolGs/HTB-Open-Beta-Season-III/assets/19478700/2a6b15c8-c267-4c4c-a00a-a5241d7d96e5)
+
 
 
 
